@@ -1,3 +1,7 @@
+//Equipe Grêmio FBPA
+//Eduardo Messias Kulka e Gabriel Caldas
+//Turma B
+
 #include <iostream>
 #include <vector>
 #include <queue>
