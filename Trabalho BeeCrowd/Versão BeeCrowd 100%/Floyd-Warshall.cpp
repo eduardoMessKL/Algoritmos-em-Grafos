@@ -30,7 +30,6 @@ string paraCoordenadasEstiloXadrez(pair<int, int> posicao) {
     return coordenadasXadrez;
 }
 
-// Implementação do algoritmo Floyd-Warshall
 int calcularMovimentosCavalo(pair<int, int> pontoA, pair<int, int> pontoB) {
     vector<vector<int>> distancia(tamanho_tabuleiro, vector<int>(tamanho_tabuleiro, -1));
     queue<pair<int, int>> fila;
